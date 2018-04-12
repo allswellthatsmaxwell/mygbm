@@ -1,0 +1,1 @@
+A gradient boosting machine type. Or class. Not sure yet.
